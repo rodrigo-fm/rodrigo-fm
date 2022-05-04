@@ -1,16 +1,16 @@
-### Hi there 👋
+## Rodrigo Fontes Martins
 
-<!--
-**rodrigo-fm/rodrigo-fm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Formação
+Ciência da Computação UFS - 2016 a 2022
 
-Here are some ideas to get you started:
+### Experiência
+Estagiário na Secretaria do Estado da Inclusão e Assistência Social (SEIAS) - novembro de 2019 até agosto de 2021
+* Desenvolvimento de sistema web.
+* Html, CSS, jQuery, Laravel e POSTGRESQL.
+* Git, git flow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor fullstack na SEDURBS - Secretaria de Estado do Desenvolvimento Urbano e Sustentabilidade - abril de 2022 até Atualmente
+* Desenvolvimento de múltiplos sistemas web.
+* React.JS, Node.JS, MySQL.
+* Levantamento de requisitos, modelagem de bancos de dados, identificação de casos de uso e escolhas de estilos arquiteturais.
+* Git, git flow.
