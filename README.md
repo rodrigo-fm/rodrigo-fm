@@ -1,7 +1,7 @@
 ## Rodrigo Fontes Martins
 
 ### Formação
-Ciência da Computação UFS - 2016 a 2022
+Ciência da Computação UFS - julho de 2016 até maio de 2022
 
 ### Experiência
 #### Estagiário na Secretaria do Estado da Inclusão e Assistência Social (SEIAS)
