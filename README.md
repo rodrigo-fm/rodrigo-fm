@@ -1,7 +1,5 @@
 ## Rodrigo Fontes Martins
-
-### Formação
-Ciência da Computação UFS - julho de 2016 até maio de 2022
+Graduado em ciência da computação pela Universidade Federal de Sergipe (UFS)
 
 ### Experiência
 #### Estagiário em desenvolvimento web fullstack na Secretaria do Estado da Inclusão e Assistência Social (SEIAS)
