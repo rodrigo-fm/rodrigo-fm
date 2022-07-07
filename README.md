@@ -14,7 +14,7 @@ Novembro de 2019 até Agosto de 2021
 Abril de 2022 até Atualmente
 
 * React, Node e Typescript.
-* MySQL.
+* MySQL e SQL Server.
 * Git, Gitflow e Scrum.
 * Clean Architecture e TDD .
 * Levantamento de requisitos e Modelagem de bancos relacionais.
