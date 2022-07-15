@@ -18,3 +18,4 @@ Abril de 2022 até Atualmente
 * Git, Gitflow e Scrum.
 * Clean Architecture e TDD .
 * Levantamento de requisitos e Modelagem de bancos relacionais.
+# Docker
