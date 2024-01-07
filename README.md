@@ -1,21 +1,4 @@
 ## Rodrigo Fontes Martins
-Graduado em ciência da computação pela Universidade Federal de Sergipe (UFS)
+Brazilian software developer with a bachelor's degree in computer science by the Federal University of Sergipe.
 
-### Experiência
-#### Estagiário em desenvolvimento web fullstack na Secretaria do Estado da Inclusão e Assistência Social (SEIAS)
-Novembro de 2019 até Agosto de 2021
-
-* React, Html, CSS, jQuery e Laravel.
-* PostgreSQL.
-* Git e Gitflow.
-* Levantamento de requisitos e Modelagem de bancos relacionais.
-
-#### Desenvolvedor fullstack na SEDURBS - Secretaria de Estado do Desenvolvimento Urbano e Sustentabilidade
-Abril de 2022 até Atualmente
-
-* React, Node e Typescript.
-* MySQL e SQL Server.
-* Git, Gitflow e Scrum.
-* Clean Architecture e TDD .
-* Levantamento de requisitos e Modelagem de bancos relacionais.
-* Docker
+Currently working as a mobile developer for Flextronic's Institue of Technology.
